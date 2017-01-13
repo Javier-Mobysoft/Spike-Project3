@@ -20,8 +20,8 @@ public class Service3 {
     }
 
     public void  execute(){
-        Util.print();
-        service.execute();
+        Util.print2();
+        service.execute3();
         service2.execute();
         System.out.println("Hey!!");
     }
