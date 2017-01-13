@@ -7,8 +7,8 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>Common</name>
-	<description>Common Libraries</description>
+	<name>Project3</name>
+	<description>Project3 Libraries</description>
 
     <scm>
         <connection>scm:git:https://github.com/Javier-Mobysoft/Spike-Common.git</connection>
@@ -20,7 +20,7 @@
 	<parent>
 		<groupId>com.gitflow.spike</groupId>
 		<artifactId>spike-parent</artifactId>
-		<version>0.0.1-SNAPSHOT</version>
+		<version>RELEASE</version>
 	</parent>
 
 	<properties>
